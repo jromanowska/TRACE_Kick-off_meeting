@@ -1,0 +1,32 @@
+---
+title: "Exploring drug repurposing approaches for Parkinson's disease"
+author: "Julia Romanowska, Trond Riise"
+format:
+  revealjs:
+    date-format: "YYYY-MM-DD"
+    theme: moon
+    logo: "img/UiBmerke_grayscaleV8_white_transp.png"
+date: '2024-02-19'
+---
+
+## DRONE and TRACE
+
+## DRONE - who we are?
+
+### Locally
+
+### Internationally
+
+## DRONE - what we do?
+
+### Research
+
+### Communication
+
+## New project
+
+### Idea
+
+### Collaborators
+
+### Timeline
