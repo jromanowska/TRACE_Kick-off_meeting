@@ -9,7 +9,56 @@ format:
 date: '2024-02-19'
 ---
 
+```{r}
+#| include: false
+#| label: setup
+library(fontawesome)
+```
+
+
+## DRONE
+
+<img src="img/DRONE-webpage.png" style="height: 100%; position: absolute; top: 2px; right: 2px;">
+
 ## DRONE and TRACE
+
+<img src="img/SFF_Forenklet.png" style="margin-inline: auto; max-width: fit-content;">
+
+## DRONE and TRACE
+
+`r fa("people-group")` **Epidemiology:**    
+registry-based research
+
+:::notes
+- we're checking the Prescription Registry
+:::
+
+. . .
+
+`r fa("robot")` **Bioinformatics:**    
+molecular databases, enrichment in GWAS
+
+:::notes
+- 
+:::
+
+. . .
+
+`r fa("file-prescription")` **Medical statistics:**    
+new methods, time-dependent exposure, emulated target trials
+
+:::notes
+- new methods: _agnostic search for associations_
+:::
+
+. . .
+
+`r fa("flask-vial")` **Experimental systems:**    
+collaboration with Harvard and Yale
+
+:::notes
+- collaboration with Boston
+:::
 
 ## DRONE - who we are?
 
