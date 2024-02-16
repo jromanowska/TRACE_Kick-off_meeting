@@ -1,11 +1,17 @@
 ---
 title: "Exploring drug repurposing approaches for Parkinson's disease"
+title-slide-attributes:
+  data-background-image: img/roberto-sorin-RS0-h_pyByk-unsplash.jpg
+  data-background-size: contain
+  data-background-opacity: "0.5"
 author: "Julia Romanowska, Trond Riise"
 format:
   revealjs:
     date-format: "YYYY-MM-DD"
     theme: moon
     logo: "img/UiBmerke_grayscaleV8_white_transp.png"
+    template-partials:
+      - title-slide.html
 date: '2024-02-19'
 ---
 
@@ -15,14 +21,16 @@ date: '2024-02-19'
 library(fontawesome)
 ```
 
-
 ## DRONE
 
 <img src="img/DRONE-webpage.png" style="height: 100%; position: absolute; top: 2px; right: 2px;">
 
 ## DRONE and TRACE
 
-<img src="img/SFF_Forenklet.png" style="margin-inline: auto; max-width: fit-content;">
+```{=html}
+<img src="img/SFF_Forenklet_no_bck.png" style="width: 50%;">
+<img src="img/DRONE-webpage.png" style="height: 100%; position: absolute; top: 2px; right: 2px;">
+```
 
 ## DRONE and TRACE
 
@@ -66,12 +74,12 @@ collaboration with Harvard and Yale
 
 ```{=html}
 <img src="img/drone_group_photo_2022.jpg" style="position:absolute; right: 2px; top: 10px; width: 60%;">
-<br>
-<br>
-<br>
-<br>
 ```
 
++ NeuroSysMed    
+![](img/Neuro-SysMed_RGB_Logo.png)
+
+<br>
 
 #### Internationally:
 
@@ -81,7 +89,9 @@ collaboration with Harvard and Yale
 
 ## DRONE - what we do?
 
-...workflow image...
+```{=html}
+<img src="img/workflow_project_analyses_vertical.png" style="width: 80%">
+```
 
 :::notes
 DRONE = drug repurposing for neurological diseases;
@@ -89,8 +99,6 @@ DRONE = drug repurposing for neurological diseases;
 drug repurposing = we have entire Prescription registry to look into;
 more than 600 million prescriptions, ca.4.5 million Norwegians, 2004--2019
 :::
-
-. . .
 
 :::alert
 **MAIN AIM:** find drugs that influence risk of disease
@@ -104,9 +112,7 @@ drugs that increase risk can give information about disease genesis;
 drugs that decrease risk can be potentially used as new treatment options
 :::
 
-## DRONE - what we do?
-
-### Research
+## DRONE - Research projects
 
 **Parkinson's disease (PD)** - Julia Tuominen, Asieh Moufrad _(until April)_, Muhammad Eid _(graduated)_
 
@@ -114,40 +120,54 @@ drugs that decrease risk can be potentially used as new treatment options
 
 **Amyotrophic lateral sclerosis (ALS)** - Magne Solheim
 
-## DRONE - what we do?
-
-### Communication
+## DRONE - Communication
 
 ```{=html}
 <div>
-<img src="img/JuliaT_article.png" style="width: 30%;">
-<img src="img/JuliaR_article.png" style="width: 30%;">
-<img src="img/Akash_article.png" style="width: 30%;">
+<img src="img/JuliaT_article.png" style="width: 32%;">
+<img src="img/JuliaR_article.png" style="width: 32%;">
+<img src="img/Akash_article.png" style="width: 32%;">
 </div>
 ```
 
-- 19 presentations on conferences and seminars
-- 5 gatherings
-- 3 media articles
-- 1 Master thesis defended
-- tons of coffee, sweat, and tears
+- `r fa("person-chalkboard")` 19 presentations on conferences and seminars
+- `r fa("people-line")` 5 gatherings
+- `r fa("newspaper")` 3 media articles
+- `r fa("graduation-cap")` 1 Master thesis defended
+- `r fa("laptop-code")` thousands of lines of code
 
 :::notes
 list of papers + posters + presentations; photos of Julia T and Akash presenting
+:::
+
+## New project
+
+```{=html}
+<img src="img/mjfox_logo.png" style="position: absolute; right: 2px; top: 2px; width: 600px;">
+```
+. . .
+
+<br>
+
+_Finland:_ **Anna-Maija Tolppanen**    
+School of Pharmacy, Faculty of Health Sciences, Univ.of Eastern Finland
+
+<br>
+
+_France:_ **Alexis Elbaz**    
+French Institute of Health and Medical Research, Inserm
+
+:::notes
+they both have 
 :::
 
 ## New project - Idea
 
 Cross-validation of findings from: _Norway, France, and Finland_
 
-1. 
+1. Cross-validate methodology _(Finland)_
 
-## New project - Collaborators
+2. Meta-analysis _(Norway)_
 
-**Anna-Maija Tolppanen**    
-School of Pharmacy, Faculty of Health Sciences, Univ.of Eastern Finland
+3. Cross-validate significant findings _(all)_
 
-**Alexis Elbaz**    
-French Institute of Health and Medical Research, Inserm
-
-## New project - Timeline
