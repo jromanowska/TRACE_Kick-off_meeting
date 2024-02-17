@@ -114,9 +114,16 @@ drugs that decrease risk can be potentially used as new treatment options
 
 ## DRONE - Research projects
 
-**Parkinson's disease (PD)** - Julia Tuominen, Asieh Moufrad _(until April)_, Muhammad Eid _(graduated)_
+<br>
+
+**Parkinson's disease (PD)** - Julia Tuominen,    
+Asieh Mofrad _(until April)_, Muhammad Eid _(graduated)_
+
+<br>
 
 **Multiple sclerosis (MS)** - Akash Kapali
+
+<br>
 
 **Amyotrophic lateral sclerosis (ALS)** - Magne Solheim
 
