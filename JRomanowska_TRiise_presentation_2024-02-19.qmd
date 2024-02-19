@@ -21,6 +21,15 @@ date: '2024-02-19'
 library(fontawesome)
 ```
 
+```{css}
+.reveal .slide-logo {
+  height: 100px !important;
+  width: 100px !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+```
+
 ## DRONE
 
 <img src="img/DRONE-webpage.png" style="height: 100%; position: absolute; top: 2px; right: 2px;">
@@ -172,9 +181,15 @@ they both have
 
 Cross-validation of findings from: _Norway, France, and Finland_
 
+. . .
+
 1. Cross-validate methodology _(Finland)_
 
+. . .
+
 2. Meta-analysis _(Norway)_
+
+. . .
 
 3. Cross-validate significant findings _(all)_
 
