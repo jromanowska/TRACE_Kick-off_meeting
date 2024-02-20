@@ -140,9 +140,9 @@ Asieh Mofrad _(until April)_, Muhammad Eid _(graduated)_
 
 ```{=html}
 <div>
-<img src="img/JuliaT_article.png" style="width: 32%;">
-<img src="img/JuliaR_article.png" style="width: 32%;">
-<img src="img/Akash_article.png" style="width: 32%;">
+<a href="https://doi.org/10.1016/j.parkreldis.2023.105389"><img src="img/JuliaT_article.png" style="width: 32%;"></a>
+<a href="https://doi.org/10.1212/WNL.0000000000207899"><img src="img/JuliaR_article.png" style="width: 32%;"></a>
+<a href="https://doi.org/10.1136/jnnp-2023-331241"><img src="img/Akash_article.png" style="width: 32%;"></a>
 </div>
 ```
 
